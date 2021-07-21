@@ -8,7 +8,7 @@ using VendasWeb.Models;
 
 namespace VendasWeb.Migrations
 {
-    [DbContext(typeof(vendaswebpdb))]
+    [DbContext(typeof(VendasWebContext))]
     [Migration("20210721155644_Initial")]
     partial class Initial
     {

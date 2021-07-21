@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using VendasWeb.Models;
 
 namespace VendasWeb.Migrations
 {
     [DbContext(typeof(VendasWebContext))]
-    partial class vendaswebpdbModelSnapshot : ModelSnapshot
+    [Migration("20210721163812_CorrecaoBanco")]
+    partial class CorrecaoBanco
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

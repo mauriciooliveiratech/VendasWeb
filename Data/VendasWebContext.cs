@@ -6,9 +6,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace VendasWeb.Models
 {
-    public class vendaswebpdb : DbContext
+    public class VendasWebContext : DbContext
     {
-        public vendaswebpdb (DbContextOptions<vendaswebpdb> options)
+        public VendasWebContext (DbContextOptions<VendasWebContext> options)
             : base(options)
         {
         }
