@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using VendasWeb.Models;
 using VendasWeb.Data;
+using VendasWeb.Services;
 
 namespace VendasWeb
 {
@@ -36,6 +37,7 @@ namespace VendasWeb
                     options.UseMySql(Configuration.GetConnectionString("VendasWebContext"), builder =>
                                                         builder.MigrationsAssembly("VendasWeb")));
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
             
         }
 
