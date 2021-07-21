@@ -30,3 +30,8 @@ C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp
 C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
 C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\Mauricio Oliveira\source\repos\VendasWeb\VendasWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs

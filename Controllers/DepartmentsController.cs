@@ -11,9 +11,9 @@ namespace VendasWeb.Controllers
 {
     public class DepartmentsController : Controller
     {
-        private readonly VendasWebContext _context;
+        private readonly vendaswebpdb _context;
 
-        public DepartmentsController(VendasWebContext context)
+        public DepartmentsController(vendaswebpdb context)
         {
             _context = context;
         }
