@@ -24,7 +24,7 @@ namespace VendasWeb.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Mauricio Oliveira Tech.";
 
             return View();
         }
